@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1,
+        "Name": "CEMEAH Health center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.33566462816196,
+          18.52481331363697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2,
+        "Name": "St. Elizabeth Health center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.34010667327442,
+          18.524655541890148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3,
+        "Name": "Portail Leogane Health Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.34729464632655,
+          18.5348572348318
+        ]
+      }
+    }
+  ]
+}

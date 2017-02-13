@@ -1,0 +1,334 @@
+{
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "OID_": 0,
+        "Name": "Rose Enfantines",
+        "FolderPath": "Liste des Etablissements Scolaires.kmz/Liste des Etablissements Scolaires",
+        "activities": "DRR and Health",
+        "beforeImg": "",
+        "afterImg": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.33818,
+          18.528104,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OID_": 0,
+        "Name": "College St Gerard",
+        "FolderPath": "Liste des Etablissements Scolaires.kmz/Liste des Etablissements Scolaires",
+        "activities": "DRR and Health",
+        "beforeImg": "",
+        "afterImg": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.339473,
+          18.529126,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OID_": 0,
+        "Name": "Ecole Municipale de Fort Mercredi",
+        "FolderPath": "Liste des Etablissements Scolaires.kmz/Liste des Etablissements Scolaires",
+        "activities": "Rebuild & DRR and Health",
+        "beforeImg": "",
+        "afterImg": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.350785,
+          18.526365,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OID_": 0,
+        "Name": "Village des Petits Prince",
+        "FolderPath": "Liste des Etablissements Scolaires.kmz/Liste des Etablissements Scolaires",
+        "activities": "DRR and Health",
+        "beforeImg": "",
+        "afterImg": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.340227682999966,
+          18.527579397000068,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OID_": 0,
+        "Name": "Ile du Trésor",
+        "FolderPath": "Liste des Etablissements Scolaires.kmz/Liste des Etablissements Scolaires",
+        "activities": "Repaired & DRR and Health",
+        "beforeImg": "",
+        "afterImg": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.329809,
+          18.526113,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OID_": 0,
+        "Name": "Ecole Communautaire Emile Tanis",
+        "FolderPath": "Liste des Etablissements Scolaires.kmz/Liste des Etablissements Scolaires",
+        "activities": "DRR and Health",
+        "beforeImg": "",
+        "afterImg": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.32832,
+          18.52169,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OID_": 0,
+        "Name": "Ecole Communautaire CEMEAH",
+        "FolderPath": "Liste des Etablissements Scolaires.kmz/Liste des Etablissements Scolaires",
+        "activities": "Rebuild & DRR and Health",
+        "beforeImg": "https://arcmaps.s3.amazonaws.com/share/LAMIKAphotos/cemeaSchool_before.jpg",
+        "afterImg":"https://arcmaps.s3.amazonaws.com/share/LAMIKAphotos/cemeaSchool_after.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.33478,
+          18.5248,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OID_": 0,
+        "Name": "Ecole Communautaire Gerald Brisson",
+        "FolderPath": "Liste des Etablissements Scolaires.kmz/Liste des Etablissements Scolaires",
+        "activities": "Rebuild & DRR and Health",
+        "beforeImg": "https://arcmaps.s3.amazonaws.com/share/LAMIKAphotos/brissonSchool_before.jpg",
+        "afterImg": "https://arcmaps.s3.amazonaws.com/share/LAMIKAphotos/brissonSchool_after.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.333378955999933,
+          18.524122646000023,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OID_": 0,
+        "Name": "Institution Mixte du CAD",
+        "FolderPath": "Liste des Etablissements Scolaires.kmz/Liste des Etablissements Scolaires",
+        "activities": "Rebuild & DRR and Health",
+        "beforeImg": "",
+        "afterImg": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.335508037999944,
+          18.525222921000022,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OID_": 0,
+        "Name": "Ecole Mixte les Enfants de la Grace",
+        "FolderPath": "Liste des Etablissements Scolaires.kmz/Liste des Etablissements Scolaires",
+        "activities": "Rebuild & DRR and Health",
+        "beforeImg": "https://arcmaps.s3.amazonaws.com/share/LAMIKAphotos/enfantGrace_before.jpg",
+        "afterImg": "https://arcmaps.s3.amazonaws.com/share/LAMIKAphotos/enfantGrace_after.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.337523,
+          18.523237,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OID_": 0,
+        "Name": "Institution Chrétienne Mixte Pierre Harry OsKa",
+        "FolderPath": "Liste des Etablissements Scolaires.kmz/Liste des Etablissements Scolaires",
+        "activities": "Underconstruction & DRR and Health",
+        "beforeImg": "",
+        "afterImg": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.335389336999981,
+          18.524009376000038,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OID_": 0,
+        "Name": "Lycée National de Carrefour Feuille",
+        "FolderPath": "Liste des Etablissements Scolaires.kmz/Liste des Etablissements Scolaires",
+        "activities": "Underconstruction & DRR and Health",
+        "beforeImg": "",
+        "afterImg": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.339565,
+          18.52416,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OID_": 0,
+        "Name": "Institution Mixte les Abeilles (Annexe)",
+        "FolderPath": "Liste des Etablissements Scolaires.kmz/Liste des Etablissements Scolaires",
+        "activities": "DRR and Health",
+        "beforeImg": "",
+        "afterImg": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.339951,
+          18.523288,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OID_": 0,
+        "Name": "Ecole Nationale Callisthènes Fouchard",
+        "FolderPath": "Liste des Etablissements Scolaires.kmz/Liste des Etablissements Scolaires",
+        "activities": "Underconstruction & DRR and Health",
+        "beforeImg": "",
+        "afterImg": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.339594,
+          18.52394,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OID_": 0,
+        "Name": "Institution Mixte Nouvelle Jerusalem",
+        "FolderPath": "Liste des Etablissements Scolaires.kmz/Liste des Etablissements Scolaires",
+        "activities": "Not  selected by the program",
+        "beforeImg": "",
+        "afterImg": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.334274780999976,
+          18.526330759000075,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OID_": 0,
+        "Name": "Jardin d'Ester",
+        "FolderPath": "Liste des Etablissements Scolaires.kmz/Liste des Etablissements Scolaires",
+        "activities": "DRR and Health",
+        "beforeImg": "",
+        "afterImg": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.334739046999971,
+          18.527546029000064,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OID_": 0,
+        "Name": "Ecole Jehova Tsidkeu",
+        "FolderPath": "Liste des Etablissements Scolaires.kmz/Liste des Etablissements Scolaires",
+        "activities": "Not  selected by the program",
+        "beforeImg": "",
+        "afterImg": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.333236210999985,
+          18.526057938000065,
+          0
+        ]
+      }
+    }
+  ]
+}
