@@ -5,7 +5,9 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 1,
-        "Name": "CEMEAH Health center"
+        "Name": "CEMEAH Health Center",
+        "beforeImg":"",
+        "afterImg":""
       },
       "geometry": {
         "type": "Point",
@@ -19,7 +21,9 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 2,
-        "Name": "St. Elizabeth Health center"
+        "Name": "St. Elizabeth Health center",
+        "beforeImg":"",
+        "afterImg":""
       },
       "geometry": {
         "type": "Point",
@@ -33,7 +37,9 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 3,
-        "Name": "Portail Leogane Health Center"
+        "Name": "Portail Leogane Health Center",
+        "beforeImg":"",
+        "afterImg":""
       },
       "geometry": {
         "type": "Point",
