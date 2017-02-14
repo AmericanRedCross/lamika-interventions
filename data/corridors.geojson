@@ -5,10 +5,10 @@
       "type": "Feature",
       "properties": {
         "Id": 0,
-        "Lamika_roa": "route ravine alfred",
+        "Lamika_roa": "Corridor Kay Alfred",
         "type": 2,
-        "beforeImg":"",
-        "afterImg":""
+        "beforeImg":"https://arcmaps.s3.amazonaws.com/share/LAMIKAphotos/corridorAlfred_before.jpg",
+        "afterImg":"https://arcmaps.s3.amazonaws.com/share/LAMIKAphotos/corridorAlfred_after.jpg"
       },
       "geometry": {
         "type": "LineString",

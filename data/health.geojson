@@ -7,7 +7,7 @@
         "OBJECTID": 1,
         "Name": "CEMEAH Health Center",
         "beforeImg":"",
-        "afterImg":""
+        "afterImg":"https://arcmaps.s3.amazonaws.com/share/LAMIKAphotos/cemeahClinic1.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -21,9 +21,9 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 2,
-        "Name": "St. Elizabeth Health center",
+        "Name": "St. Elizabeth Health Center",
         "beforeImg":"",
-        "afterImg":""
+        "afterImg":"https://arcmaps.s3.amazonaws.com/share/LAMIKAphotos/clinicStElizabeth_after.jpg"
       },
       "geometry": {
         "type": "Point",

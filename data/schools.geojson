@@ -53,7 +53,7 @@
         "FolderPath": "Liste des Etablissements Scolaires.kmz/Liste des Etablissements Scolaires",
         "activities": "Rebuild & DRR and Health",
         "beforeImg": "",
-        "afterImg": ""
+        "afterImg": "https://arcmaps.s3.amazonaws.com/share/LAMIKAphotos/fortMercredi_after.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -296,7 +296,7 @@
       "type": "Feature",
       "properties": {
         "OID_": 0,
-        "Name": "Jardin d'Ester",
+        "Name": "Jardin d'Esther",
         "FolderPath": "Liste des Etablissements Scolaires.kmz/Liste des Etablissements Scolaires",
         "activities": "DRR and Health",
         "beforeImg": "",
