@@ -14,8 +14,8 @@
         "sport": "soccer",
         "surface": "artificial_turf",
         "place": null,
-        "beforeImg": null,
-        "afterImg": null
+        "beforeImg": "",
+        "afterImg": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -162,8 +162,8 @@
         "sport": "multi",
         "surface": null,
         "place": null,
-        "beforeImg": null,
-        "afterImg": null
+        "beforeImg": "https://arcmaps.s3.amazonaws.com/share/LAMIKAphotos/KayAlfred_2014.jpg",
+        "afterImg": "https://arcmaps.s3.amazonaws.com/share/LAMIKAphotos/KayAlfred_2015finished.jpg"
       },
       "geometry": {
         "type": "Polygon",

@@ -5,7 +5,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 1,
-        "Name": "CEMEAH Health Center",
+        "name": "CEMEAH Health Center",
         "beforeImg":"",
         "afterImg":"https://arcmaps.s3.amazonaws.com/share/LAMIKAphotos/cemeahClinic1.jpg"
       },
@@ -21,7 +21,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 2,
-        "Name": "St. Elizabeth Health Center",
+        "name": "St. Elizabeth Health Center",
         "beforeImg":"",
         "afterImg":"https://arcmaps.s3.amazonaws.com/share/LAMIKAphotos/clinicStElizabeth_after.jpg"
       },
@@ -37,7 +37,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 3,
-        "Name": "Portail Leogane Health Center",
+        "name": "Portail Leogane Health Center",
         "beforeImg":"",
         "afterImg":""
       },
