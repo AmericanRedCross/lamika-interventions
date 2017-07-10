@@ -7,8 +7,8 @@
         "id": 2,
         "type": "corridor",
         "name": "Corridor Kay Alfred",
-        "beforeImg": "",
-        "afterImg": ""
+        "beforeImg": "https://arcmaps.s3.amazonaws.com/share/LAMIKAphotos/CorridorAlfred_before.jpg",
+        "afterImg": "https://arcmaps.s3.amazonaws.com/share/LAMIKAphotos/CorridorAlfred_after.jpg"
       },
       "geometry": {
         "type": "LineString",

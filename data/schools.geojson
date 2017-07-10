@@ -52,7 +52,7 @@
         "name": "Ecole Municipale de Fort Mercredi",
         "FolderPath": "Liste des Etablissements Scolaires.kmz/Liste des Etablissements Scolaires",
         "activities": "Rebuild & DRR and Health",
-        "beforeImg": "",
+        "beforeImg": "https://arcmaps.s3.amazonaws.com/share/LAMIKAphotos/fortMercredi_before.jpg",
         "afterImg": "https://arcmaps.s3.amazonaws.com/share/LAMIKAphotos/fortMercredi_after.jpg"
       },
       "geometry": {
@@ -204,8 +204,8 @@
         "name": "Institution Chrétienne Mixte Pierre Harry OsKa",
         "FolderPath": "Liste des Etablissements Scolaires.kmz/Liste des Etablissements Scolaires",
         "activities": "Underconstruction & DRR and Health",
-        "beforeImg": "",
-        "afterImg": ""
+        "beforeImg": "https://arcmaps.s3.amazonaws.com/share/LAMIKAphotos/HarryOska_before.jpg",
+        "afterImg": "https://arcmaps.s3.amazonaws.com/share/LAMIKAphotos/HarryOska_after.jpg"
       },
       "geometry": {
         "type": "Point",
