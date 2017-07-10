@@ -22,7 +22,7 @@
       "properties": {
         "OBJECTID": 2,
         "name": "St. Elizabeth Health Center",
-        "beforeImg":"",
+        "beforeImg":"https://arcmaps.s3.amazonaws.com/share/LAMIKAphotos/clinicStElizabeth_before.jpg",
         "afterImg":"https://arcmaps.s3.amazonaws.com/share/LAMIKAphotos/clinicStElizabeth_after.jpg"
       },
       "geometry": {
