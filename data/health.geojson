@@ -7,7 +7,7 @@
         "OBJECTID": 1,
         "name": "CEMEAH Health Center",
         "beforeImg":"",
-        "afterImg":"https://arcmaps.s3.amazonaws.com/share/LAMIKAphotos/cemeahClinic1.jpg"
+        "afterImg":""
       },
       "geometry": {
         "type": "Point",

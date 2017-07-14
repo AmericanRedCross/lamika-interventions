@@ -1,1 +1,95 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.336331,18.52536,125.31]},"properties":{"name":1326}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.334462,18.524751,143.94]},"properties":{"name":1327}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.332809,18.52406,167.51]},"properties":{"name":1328}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.332663,18.522539,156.34]},"properties":{"name":1329}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.333391,18.523452,141.29]},"properties":{"name":1330}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.334589,18.523726,126.17]},"properties":{"name":1331}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": 1326,
+        "picture": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.336331,
+          18.52536,
+          125.31
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": 1327,
+        "picture": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.334462,
+          18.524751,
+          143.94
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": 1328,
+        "picture": "http://arcmaps.s3.amazonaws.com/share/LAMIKAphotos/tapisRouge_waterPoint.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.332809,
+          18.52406,
+          167.51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": 1329,
+        "picture": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.332663,
+          18.522539,
+          156.34
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": 1330,
+        "picture": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.333391,
+          18.523452,
+          141.29
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": 1331,
+        "picture": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.334589,
+          18.523726,
+          126.17
+        ]
+      }
+    }
+  ]
+}
