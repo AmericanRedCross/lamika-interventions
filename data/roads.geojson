@@ -82,8 +82,8 @@
         "id": 1,
         "type": "road",
         "name": "Avenue N",
-        "beforeImg": "",
-        "afterImg": ""
+        "beforeImg": "https://arcmaps.s3.amazonaws.com/share/LAMIKAphotos/avenueN_before.jpg",
+        "afterImg": "https://arcmaps.s3.amazonaws.com/share/LAMIKAphotos/avenueN_after.jpg"
       },
       "geometry": {
         "type": "LineString",

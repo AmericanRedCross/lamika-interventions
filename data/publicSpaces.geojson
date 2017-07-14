@@ -14,8 +14,8 @@
         "sport": "soccer",
         "surface": "artificial_turf",
         "place": null,
-        "beforeImg": "",
-        "afterImg": ""
+        "beforeImg": "https://arcmaps.s3.amazonaws.com/share/LAMIKAphotos/terrainCampeche_before.jpg",
+        "afterImg": "https://arcmaps.s3.amazonaws.com/share/LAMIKAphotos/terrainCampeche_after.jpg"
       },
       "geometry": {
         "type": "Polygon",
@@ -58,7 +58,7 @@
         "sport": null,
         "surface": null,
         "place": "square",
-        "beforeImg": "https://arcmaps.s3.amazonaws.com/share/LAMIKAphotos/tapisRouge_before.jpg",
+        "beforeImg": "https://arcmaps.s3.amazonaws.com/share/LAMIKAphotos/tapisRouge_during2.jpg",
         "afterImg": "https://arcmaps.s3.amazonaws.com/share/LAMIKAphotos/tapisRouge_after.jpg"
       },
       "geometry": {

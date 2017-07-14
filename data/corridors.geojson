@@ -165,7 +165,7 @@
       "properties": {
         "id": 3,
         "type": "corridor",
-        "name": "",
+        "name": "Tapis Rouge - Ravine Alfred",
         "beforeImg": "",
         "afterImg": ""
       },
@@ -220,7 +220,7 @@
       "properties": {
         "id": 4,
         "type": "corridor",
-        "name": "",
+        "name": "Tapis Rouge - Ravine Alfred",
         "beforeImg": "",
         "afterImg": ""
       },
@@ -742,7 +742,7 @@
       "properties": {
         "id": 14,
         "type": "corridor",
-        "name": "",
+        "name": "Corridor Legrand 2",
         "beforeImg": "",
         "afterImg": ""
       },
@@ -813,7 +813,7 @@
       "properties": {
         "id": 15,
         "type": "corridor",
-        "name": "",
+        "name": "Corridor Eustache",
         "beforeImg": "",
         "afterImg": ""
       },
