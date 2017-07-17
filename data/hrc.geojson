@@ -8,8 +8,8 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "name": "Haitian Red Cross Office at Croix Desprez",
-        "beforeImg": "",
-        "afterImg": ""
+        "beforeImg": "http://arcmaps.s3.amazonaws.com/share/LAMIKAphotos/hrcBuilding_before.jpg",
+        "afterImg": "http://arcmaps.s3.amazonaws.com/share/LAMIKAphotos/hrcBuilding_after.jpg"
       },
       "geometry": {
         "type": "Point",
