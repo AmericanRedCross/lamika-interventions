@@ -1,56 +1,152 @@
 {
   "type": "FeatureCollection",
-  "crs": {
-    "type": "name",
-    "properties": {
-      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
-    }
-  },
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2017-07-17T19:33:02Z",
   "features": [
     {
       "type": "Feature",
       "properties": {
-        "OID_": 0,
-        "name": "Rose Enfantines",
-        "FolderPath": "Liste des Etablissements Scolaires.kmz/Liste des Etablissements Scolaires",
-        "activities": "DRR and Health",
+        "@id": "node/883253021",
+        "amenity": "school",
+        "name": "Lycée National de Carrefour-Feuilles",
+        "operational_status": "open",
+        "operational_status_quality": "confirmed",
+        "operator:type": "public no for profit",
+        "school_district": "Port-au-Prince",
+        "school_type": "Enseignement secondaire - Lycee",
+        "activities": "Underconstruction & DRR and Health",
         "beforeImg": "",
-        "afterImg": ""
+        "afterImg": "",
+        "source": "CNIGS/OIM/ FOCS; Red Cross Field Survey"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -72.33818,
-          18.528104,
-          0
+          -72.3396742,
+          18.524055
         ]
-      }
+      },
+      "id": "node/883253021"
     },
     {
       "type": "Feature",
       "properties": {
-        "OID_": 0,
-        "name": "College St Gerard",
-        "FolderPath": "Liste des Etablissements Scolaires.kmz/Liste des Etablissements Scolaires",
-        "activities": "DRR and Health",
-        "beforeImg": "",
-        "afterImg": ""
+        "@id": "node/883253353",
+        "amenity": "school",
+        "name": "École Communautaire CEMEAH",
+        "operational_status": "open",
+        "operational_status_quality": "confirmed",
+        "operator:type": "public no for profit",
+        "school_district": "Port-au-Prince",
+        "school_type": "Enseignement primaire - groupe scolaire",
+        "activities": "Rebuild & DRR and Health",
+        "beforeImg": "https://arcmaps.s3.amazonaws.com/share/LAMIKAphotos/cemeaSchool_before.jpg",
+        "afterImg":"https://arcmaps.s3.amazonaws.com/share/LAMIKAphotos/cemeaSchool_after.jpg",
+        "source": "CNIGS/OIM/ FOCS; Red Cross Field Survey"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -72.339473,
-          18.529126,
-          0
+          -72.3348576,
+          18.524864
         ]
-      }
+      },
+      "id": "node/883253353"
     },
     {
       "type": "Feature",
       "properties": {
-        "OID_": 0,
-        "name": "Ecole Municipale de Fort Mercredi",
-        "FolderPath": "Liste des Etablissements Scolaires.kmz/Liste des Etablissements Scolaires",
+        "@id": "node/883253429",
+        "amenity": "school",
+        "name": "Institution Mixte Les Abeilles",
+        "operational_status": "open",
+        "operational_status_quality": "confirmed",
+        "operator:type": "private_for_profit",
+        "school_district": "Port-au-Prince",
+        "school_type": "Enseignement primaire - groupe scolaire",
+        "activities": "DRR and Health",
+        "beforeImg": "",
+        "afterImg": "",
+        "source": "CNIGS/OIM/ FOCS; Red Cross Field Survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.3399182,
+          18.5232065
+        ]
+      },
+      "id": "node/883253429"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/883253867",
+        "amenity": "school",
+        "name": "Rose Enfantine",
+        "operational_status": "open",
+        "operational_status_quality": "confirmed",
+        "operator:type": "private_for_profit",
+        "school_district": "Port-au-Prince",
+        "school_type": "Enseignement primaire - groupe scolaire",
+        "activities": "DRR and Health",
+        "beforeImg": "",
+        "afterImg": "",
+        "source": "CNIGS/OIM/ FOCS; Red Cross Field Survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.3381409,
+          18.527882
+        ]
+      },
+      "id": "node/883253867"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1171105110",
+        "2008_use": "yes",
+        "2009_use": "yes",
+        "2010_use": "yes",
+        "addr:city": "port-au-prince",
+        "addr:country": "HT",
+        "addr:full": "Rte Fort Mercredi a l'entree du fort 8e section martissant(pap/ht)",
+        "addr:housenumber": "#96",
+        "addr:street": "Rte Fort Mercredi a l'entree du Fort",
+        "amenity": "school",
+        "boundary_admin_level1_name": "jean roosevelt Pompee",
+        "building:roof": "concrete",
+        "building_concrete": "2",
+        "building_medium": "2",
+        "building_use": "Ecole",
+        "capacity_individuals": "125 personnes(rez de chaussee-2)",
+        "contact_person": "jean roosevelt Pompee",
+        "court": "yes",
+        "court_area": "paved",
+        "futur_use": "yes",
+        "generator": "non",
+        "handwashing_station": "0",
+        "humanitarian_use": "disaster_shelter",
+        "id:db_shelter": "A0577-O-013",
+        "id:uuid": "fixme",
+        "kitchen": "yes",
+        "kitchen_equiped": "yes",
+        "name": "École Municipale de Fort Mercredi",
+        "operational_status": "open",
+        "operational_status_quality": "Confirmed",
+        "operator:type": "private_for_profit",
+        "phone": "3798-8753",
+        "practicability": "motorbike",
+        "rehabilitation_need": "yes",
+        "shower": "0",
+        "source": "hot_iom_cosmha; Red Cross Field Survey",
+        "tap": "non",
+        "toilet": "3 chambres(1f/1g/1enseignants)",
+        "toilet_medium": "3 chambres",
+        "warehouse_unit": "yes",
         "activities": "Rebuild & DRR and Health",
         "beforeImg": "https://arcmaps.s3.amazonaws.com/share/LAMIKAphotos/fortMercredi_before.jpg",
         "afterImg": "https://arcmaps.s3.amazonaws.com/share/LAMIKAphotos/fortMercredi_after.jpg"
@@ -58,277 +154,262 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -72.350785,
-          18.526365,
-          0
+          -72.3508604,
+          18.5263048
         ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "OID_": 0,
-        "name": "Village des Petits Prince",
-        "FolderPath": "Liste des Etablissements Scolaires.kmz/Liste des Etablissements Scolaires",
-        "activities": "DRR and Health",
-        "beforeImg": "",
-        "afterImg": ""
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -72.340227682999966,
-          18.527579397000068,
-          0
-        ]
-      }
+      "id": "node/1171105110"
     },
     {
       "type": "Feature",
       "properties": {
-        "OID_": 0,
-        "name": "Ile du Trésor",
-        "FolderPath": "Liste des Etablissements Scolaires.kmz/Liste des Etablissements Scolaires",
-        "activities": "Repaired & DRR and Health",
-        "beforeImg": "",
-        "afterImg": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -72.329809,
-          18.526113,
-          0
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "OID_": 0,
-        "name": "Ecole Communautaire Emile Tanis",
-        "FolderPath": "Liste des Etablissements Scolaires.kmz/Liste des Etablissements Scolaires",
-        "activities": "DRR and Health",
-        "beforeImg": "",
-        "afterImg": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -72.32832,
-          18.52169,
-          0
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "OID_": 0,
-        "name": "Ecole Communautaire CEMEAH",
-        "FolderPath": "Liste des Etablissements Scolaires.kmz/Liste des Etablissements Scolaires",
-        "activities": "Rebuild & DRR and Health",
-        "beforeImg": "https://arcmaps.s3.amazonaws.com/share/LAMIKAphotos/cemeaSchool_before.jpg",
-        "afterImg":"https://arcmaps.s3.amazonaws.com/share/LAMIKAphotos/cemeaSchool_after.jpg"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -72.33478,
-          18.5248,
-          0
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "OID_": 0,
-        "name": "Ecole Communautaire Gerald Brisson",
-        "FolderPath": "Liste des Etablissements Scolaires.kmz/Liste des Etablissements Scolaires",
+        "@id": "node/1395083442",
+        "addr:city": "p-au-p",
+        "addr:country": "HT",
+        "addr:street": "carre four feuille",
+        "amenity": "school",
+        "contact_person": "jean jean flaubert",
+        "name": "École Communautaire Gérald Brisson",
+        "operational_status": "open",
+        "operational_status_quality": "confirmed",
+        "operator:type": "private_non_profit",
+        "phone": "36900134",
+        "school_ht_fondamental_3e_cycle_et_Secondaire": "yes",
+        "school_ht_prescolaire": "yes",
+        "school_sector": "private_communautary",
         "activities": "Rebuild & DRR and Health",
         "beforeImg": "https://arcmaps.s3.amazonaws.com/share/LAMIKAphotos/brissonSchool_before.jpg",
-        "afterImg": "https://arcmaps.s3.amazonaws.com/share/LAMIKAphotos/brissonSchool_after.jpg"
+        "afterImg": "https://arcmaps.s3.amazonaws.com/share/LAMIKAphotos/brissonSchool_after.jpg",
+        "source": "iom_cosmha; Red Cross Field Survey"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -72.333378955999933,
-          18.524122646000023,
-          0
+          -72.3333703,
+          18.5241591
         ]
-      }
+      },
+      "id": "node/1395083442"
     },
     {
       "type": "Feature",
       "properties": {
-        "OID_": 0,
+        "@id": "node/1944515198",
+        "amenity": "school",
+        "name": "Institution Mixte Nouvelle Jerusalem",
+        "activities": "Not  selected by the program",
+        "beforeImg": "",
+        "afterImg": "",
+        "source": "Red Cross Field Survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.3342867,
+          18.5263276
+        ]
+      },
+      "id": "node/1944515198"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4726235177",
+        "amenity": "school",
         "name": "Institution Mixte du CAD",
-        "FolderPath": "Liste des Etablissements Scolaires.kmz/Liste des Etablissements Scolaires",
         "activities": "Rebuild & DRR and Health",
         "beforeImg": "",
-        "afterImg": ""
+        "afterImg": "",
+        "source": "Red Cross Field Survey"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -72.335508037999944,
-          18.525222921000022,
-          0
+          -72.335364,
+          18.5251944
         ]
-      }
+      },
+      "id": "node/4726235177"
     },
     {
       "type": "Feature",
       "properties": {
-        "OID_": 0,
-        "name": "Ecole Mixte les Enfants de la Grace",
-        "FolderPath": "Liste des Etablissements Scolaires.kmz/Liste des Etablissements Scolaires",
-        "activities": "Rebuild & DRR and Health",
-        "beforeImg": "https://arcmaps.s3.amazonaws.com/share/LAMIKAphotos/enfantGrace_before.jpg",
-        "afterImg": "https://arcmaps.s3.amazonaws.com/share/LAMIKAphotos/enfantGrace_after.jpg"
+        "@id": "node/4975993017",
+        "amenity": "school",
+        "name": "Ecole Communautaire Emile Tanis",
+        "activities": "DRR and Health",
+        "beforeImg": "",
+        "afterImg": "",
+        "source": "Red Cross Field Survey"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -72.337523,
-          18.523237,
-          0
+          -72.3282217,
+          18.5217093
         ]
-      }
+      },
+      "id": "node/4975993017"
     },
     {
       "type": "Feature",
       "properties": {
-        "OID_": 0,
+        "@id": "node/4975993621",
+        "amenity": "school",
+        "name": "Ile du Trésor",
+        "activities": "Repaired & DRR and Health",
+        "beforeImg": "",
+        "afterImg": "",
+        "source": "Red Cross Field Survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.3299336,
+          18.5262147
+        ]
+      },
+      "id": "node/4975993621"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4975993622",
+        "amenity": "school",
+        "name": "Ecole Jehova Tsidkeu",
+        "activities": "Not  selected by the program",
+        "beforeImg": "",
+        "afterImg": "",
+        "source": "Red Cross Field Survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.3332602,
+          18.5260017
+        ]
+      },
+      "id": "node/4975993622"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4975993623",
+        "amenity": "school",
+        "name": "Village des Petits Prince",
+        "activities": "DRR and Health",
+        "beforeImg": "",
+        "afterImg": "",
+        "source": "Red Cross Field Survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.3402467,
+          18.5275836
+        ]
+      },
+      "id": "node/4975993623"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4975993626",
+        "amenity": "school",
         "name": "Institution Chrétienne Mixte Pierre Harry OsKa",
-        "FolderPath": "Liste des Etablissements Scolaires.kmz/Liste des Etablissements Scolaires",
         "activities": "Underconstruction & DRR and Health",
         "beforeImg": "https://arcmaps.s3.amazonaws.com/share/LAMIKAphotos/HarryOska_before.jpg",
-        "afterImg": "https://arcmaps.s3.amazonaws.com/share/LAMIKAphotos/HarryOska_after.jpg"
+        "afterImg": "https://arcmaps.s3.amazonaws.com/share/LAMIKAphotos/HarryOska_after.jpg",
+        "source": "Red Cross Field Survey"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -72.335389336999981,
-          18.524009376000038,
-          0
+          -72.3354395,
+          18.5240517
         ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "OID_": 0,
-        "name": "Lycée National de Carrefour Feuille",
-        "FolderPath": "Liste des Etablissements Scolaires.kmz/Liste des Etablissements Scolaires",
-        "activities": "Underconstruction & DRR and Health",
-        "beforeImg": "",
-        "afterImg": ""
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -72.339565,
-          18.52416,
-          0
-        ]
-      }
+      "id": "node/4975993626"
     },
     {
       "type": "Feature",
       "properties": {
-        "OID_": 0,
-        "name": "Institution Mixte les Abeilles (Annexe)",
-        "FolderPath": "Liste des Etablissements Scolaires.kmz/Liste des Etablissements Scolaires",
-        "activities": "DRR and Health",
-        "beforeImg": "",
-        "afterImg": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -72.339951,
-          18.523288,
-          0
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "OID_": 0,
-        "name": "Ecole Nationale Callisthènes Fouchard",
-        "FolderPath": "Liste des Etablissements Scolaires.kmz/Liste des Etablissements Scolaires",
-        "activities": "Underconstruction & DRR and Health",
-        "beforeImg": "",
-        "afterImg": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -72.339594,
-          18.52394,
-          0
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "OID_": 0,
-        "name": "Institution Mixte Nouvelle Jerusalem",
-        "FolderPath": "Liste des Etablissements Scolaires.kmz/Liste des Etablissements Scolaires",
-        "activities": "Not  selected by the program",
-        "beforeImg": "",
-        "afterImg": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -72.334274780999976,
-          18.526330759000075,
-          0
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "OID_": 0,
+        "@id": "node/4975993627",
+        "amenity": "school",
         "name": "Jardin d'Esther",
-        "FolderPath": "Liste des Etablissements Scolaires.kmz/Liste des Etablissements Scolaires",
         "activities": "DRR and Health",
         "beforeImg": "",
-        "afterImg": ""
+        "afterImg": "",
+        "source": "Red Cross Field Survey"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -72.334739046999971,
-          18.527546029000064,
-          0
+          -72.3347636,
+          18.5275651
         ]
-      }
+      },
+      "id": "node/4975993627"
     },
     {
       "type": "Feature",
       "properties": {
-        "OID_": 0,
-        "name": "Ecole Jehova Tsidkeu",
-        "FolderPath": "Liste des Etablissements Scolaires.kmz/Liste des Etablissements Scolaires",
-        "activities": "Not  selected by the program",
-        "beforeImg": "",
-        "afterImg": ""
+        "@id": "node/4975993635",
+        "amenity": "school",
+        "name": "Ecole Mixte Enfants de la Grace",
+        "activities": "Rebuild & DRR and Health",
+        "beforeImg": "https://arcmaps.s3.amazonaws.com/share/LAMIKAphotos/enfantGrace_before.jpg",
+        "afterImg": "https://arcmaps.s3.amazonaws.com/share/LAMIKAphotos/enfantGrace_after.jpg",
+        "source": "Red Cross Field Survey"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -72.333236210999985,
-          18.526057938000065,
-          0
+          -72.3375618,
+          18.5232099
         ]
-      }
+      },
+      "id": "node/4975993635"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4975993709",
+        "amenity": "school",
+        "name": "College St. Gerard",
+        "activities": "DRR and Health",
+        "beforeImg": "",
+        "afterImg": "",
+        "source": "Red Cross Field Survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.3394963,
+          18.5290643
+        ]
+      },
+      "id": "node/4975993709"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4975993710",
+        "amenity": "school",
+        "name": "Ecole Nationale Callisthènes Fouchard",
+        "activities": "Underconstruction & DRR and Health",
+        "beforeImg": "",
+        "afterImg": "",
+        "source": "Red Cross Field Survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.3397887,
+          18.5240453
+        ]
+      },
+      "id": "node/4975993710"
     }
   ]
 }
